@@ -4,7 +4,7 @@ venv/
 .venv/
 env/
 
-felipe/
+#felipe/
 # Ignorar arquivos do sistema e do VS Code
 .vscode/
 .DS_Store
